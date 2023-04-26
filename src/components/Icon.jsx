@@ -10,8 +10,8 @@ const Icon = ({ name, src }) => {
     alignItems: "center", 
     mb: 3 
     }}>
-      <img src={src} height="40px" />
-      <Typography variant="body1" sx={{ color: "white", mt: 1, color: "gray" }}>
+      <img src={src} alt="icon" height="40px" />
+      <Typography variant="body1" sx={{ color: "white", mt: 1 }}>
         {name}
       </Typography>
   </Box>
