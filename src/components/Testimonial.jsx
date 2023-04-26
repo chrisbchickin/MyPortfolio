@@ -14,7 +14,7 @@ const Testimonial = () => {
     mx: 3
     }}>
         <Typography variant="body1" sx={{color: "white", mb: 2}}>
-        I am an curious Web Developer with a hunger for learning and a need
+        I am a curious Web Developer with a hunger for learning and a need
         to problem-solve. I immerse myself into my projects, looking outside the box for lessons that will ultimately provide insights and solutions. I have many hobbies including body building, video games, sports and learning about how the world works!
         </Typography>
         <Typography variant="body2">
