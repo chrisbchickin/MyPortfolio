@@ -1,6 +1,7 @@
 import TechHubImg from "../media/TechHub.png";
 import MernProjectImg from "../media/LyricLibraryProject.png";
 import GymTrackingImg from "../media/GymTrackingApp.png";
+import TwitterCloneImg from "../media/twitterclone.png"
 
 export const projects = [
   {
@@ -24,13 +25,13 @@ export const projects = [
     id: 1,
   },
   {
-    title: "Gym Tracking App (MVC)",
+    title: "Twitter Clone (T3 stack)",
     description:
-      "A fun MVC style application built for gym users.",
-    image: GymTrackingImg,
-    tags: ["HandlebarJS", "JavaScript", "Bootstrap", "Sequilize", "Express"],
-    source: "https://github.com/chrisbchickin/gym-homie",
-    liveVersion: "https://powerful-sands-21433.herokuapp.com/",
+      "A Twitter clone built with the T3 stack lets you quickly create a social media app with features like user accounts, tweet creation, and basic interactions using modern web development tools.",
+    image: TwitterCloneImg,
+    tags: ["Prisma", "TypeScript", "Tailwind", "NextJS"],
+    source: "https://github.com/chrisbchickin/twitter-clone",
+    liveVersion: "https://twitter-clone-phi-jet.vercel.app/",
     id: 2,
   },
 ];
