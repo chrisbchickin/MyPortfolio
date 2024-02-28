@@ -26,7 +26,7 @@ export const projects = [
   {
     title: "Twitter Clone (T3 stack)",
     description:
-      "A Twitter clone built with the T3 stack lets you quickly create a social media app with features like user accounts, tweet creation, and basic interactions using modern web development tools.",
+      "A Twitter clone built with the T3 stack lets you quickly create a social media app with features and interactions using modern web development tools.",
     image: TwitterCloneImg,
     tags: ["Prisma", "TypeScript", "Tailwind", "NextJS"],
     source: "https://github.com/chrisbchickin/twitter-clone",
