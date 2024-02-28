@@ -1,6 +1,5 @@
 import TechHubImg from "../media/TechHub.png";
 import MernProjectImg from "../media/LyricLibraryProject.png";
-import GymTrackingImg from "../media/GymTrackingApp.png";
 import TwitterCloneImg from "../media/twitterclone.png"
 
 export const projects = [
