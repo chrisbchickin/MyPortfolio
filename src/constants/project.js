@@ -28,7 +28,7 @@ export const projects = [
     description:
       "A Social Media App that lets you engage in online interactions in a user friendly way.",
     image: TwitterCloneImg,
-    tags: ["Prisma", "TypeScript", "Tailwind", "NextJS"],
+    tags: ["Prisma", "TypeScript", "Tailwind", "NextJS", "Trpc"],
     source: "https://github.com/chrisbchickin/twitter-clone",
     liveVersion: "https://twitter-clone-phi-jet.vercel.app/",
     id: 2,
