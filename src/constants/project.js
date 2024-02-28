@@ -1,16 +1,16 @@
 import TechHubImg from "../media/TechHub.png";
-import MernProjectImg from "../media/LyricLibraryProject.png";
 import TwitterCloneImg from "../media/twitterclone.png"
+import MonocleWebAppImg from  "../media/monoclewebapp.png"
 
 export const projects = [
   {
-    title: "Mern Project",
+    title: "Monocle Web App",
     description:
-      "This web application resembles the design of the music streaming application Spotify.",
-    image: MernProjectImg,
-    tags: ["MongoDB", "Express", "React", "Node", "JavaScript", ],
-    source: "https://github.com/moxamadfarax/lyric-library",
-    liveVersion: "https://lyric-library.herokuapp.com/",
+      "This web application for mainting states of large scale insurance collections and claims.",
+    image: MonocleWebAppImg,
+    tags: ["CSS", "HTML", "TypeScript", "C#", "Docker"],
+    source: "https://github.com/aarongbenjamin/monocle-webapp?tab=readme-ov-file",
+    liveVersion: "https://purple-mushroom-035a32310.3.azurestaticapps.net/",
     id: 0,
   },
   {
