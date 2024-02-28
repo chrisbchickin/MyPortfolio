@@ -6,7 +6,7 @@ export const projects = [
   {
     title: "Monocle Web App",
     description:
-      "This web application for mainting states of large scale insurance collections and claims.",
+      "A web application for mainting states of large scale insurance collections and claims.",
     image: MonocleWebAppImg,
     tags: ["CSS", "HTML", "TypeScript", "C#", "Docker"],
     source: "https://github.com/aarongbenjamin/monocle-webapp?tab=readme-ov-file",
