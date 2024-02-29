@@ -20,7 +20,7 @@ export const projects = [
     image: TechHubImg,
     tags: ["HandlebarJS", "JavaScript", "Bootstrap", "Sequilize", "Express"],
     source: "https://github.com/chrisbchickin/Tech-hub/",
-    liveVersion: "https://warm-forest-21323.herokuapp.com/login",
+    liveVersion: "https://chrisb-tech-hub-3697c30a9af3.herokuapp.com/",
     id: 1,
   },
   {
